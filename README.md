@@ -12,5 +12,6 @@ Acts like Command Prompt, **system()** in C++ can be used for various things ins
 - cls (clears all text in CW)
 - shutdown /r (restarts your OS)
 - time (view and modify time)
+- help (list of available cmds)
 - chkdsk (checks disk health and errors)
 - **RUN chkdsk AT YOUR OWN SAFETY, IM NOT RESPONSIBLE FOR OS DAMAGE!**
